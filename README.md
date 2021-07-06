@@ -1,3 +1,5 @@
+![alt text](https://github.com/renanbdr/recommendation_system_SincereProject/blob/main/cover.png?raw=true)
+
 # Sincere recommender
 ## A Movie recommender system using hybrid clustering (k-means and fuzzy c-means) and SVD based on ratings
 
