@@ -17,7 +17,7 @@ The files of this repository are divided in the following folders:
 Due to data size, links to google drive with said database were provided.
 
 * Inputs - primary and secondary databases used as input for the analysis.
-* Outputs - intermediate and final results of each stage of the process. Considering the large size of the databases, intermediate files were generated so that whoever wants to reproduce the analysis will not have impacts associated to the computational capacity.
+* Outputs - intermediate and final results of each stage of the process. Considering the large size of the databases, intermediate files were generated so that whoever wants to reproduce the analysis will be lesser affected by computational challenges issues.
 
 ## Code
 ### ETL
@@ -33,4 +33,4 @@ Due to data size, links to google drive with said database were provided.
 --> [sincere_comparison.ipynb](https://github.com/renanbdr/recommendation_system_SincereProject/blob/main/Code/sincere_comparison.ipynb)
 
 This is a bootcamp project, implemented in pairs. Thiago([@ThiagoCarvalho-81](https://github.com/ThiagoCarvalho-81)) and I worked together. 
-The scope of the work was, in a 2-week period, to generate a differentiated experimental recommender system using a public dataset and at least 3 algorithms.
+The scope of the work was, in a 2-week period, use a different approach on a experimental recommender system using a public dataset and at least 3 algorithms.
