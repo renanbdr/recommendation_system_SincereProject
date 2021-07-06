@@ -1,0 +1,3 @@
+movielens database: https://grouplens.org/datasets/movielens/25m/
+
+large size input data: https://drive.google.com/drive/folders/1hC94qpW_x58xGBmGuHLcnveQZopadEDl
